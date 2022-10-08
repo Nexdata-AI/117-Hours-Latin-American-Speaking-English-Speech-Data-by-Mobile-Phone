@@ -1,8 +1,10 @@
 # 117-Hours-Latin-American-Speaking-English-Speech-Data-by-Mobile-Phone
-https://www.datatang.ai/datasets/1021
+
 
 ## Description
 281 Latinos recorded in a relatively quiet environment in authentic English. The recorded script is designed by linguists and covers a wide range of topics including generic, interactive, on-board and home. The text is manually proofread with high accuracy. It matches with mainstream Android and Apple system phones.
+
+For more details, please refer to the link: https://bit.ly/3C9fL0K
 
 ## Format
 16kHz, 16bit, uncompressed wav, mono channel.
@@ -24,3 +26,6 @@ English
 
 ## Application scenarios
 speech recognition; voiceprint recognition.
+
+# Licensing Information
+Commerical License: https://drive.google.com/file/d/1saDCPm74D4UWfBL17VbkTsZLGfpOQj1J/view?usp=sharing
