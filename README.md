@@ -4,7 +4,8 @@
 ## Description
 281 Latinos recorded in a relatively quiet environment in authentic English. The recorded script is designed by linguists and covers a wide range of topics including generic, interactive, on-board and home. The text is manually proofread with high accuracy. It matches with mainstream Android and Apple system phones.
 
-For more details, please refer to the link: https://bit.ly/3C9fL0K
+For more details, please refer to the link: https://www.nexdata.ai/datasets/1021?source=Github
+
 
 ## Format
 16kHz, 16bit, uncompressed wav, mono channel.
